@@ -1,0 +1,28 @@
+.solutions-content{
+    color:rgb(0,201,239);
+    font-family: "raleway";
+    font-weight: 600;
+    
+}
+.sol-img{
+    height: 400px;
+}
+.sol-cont1 p{
+    font-size: larger;
+    text-align:justify;
+    margin-left: 23%;
+} 
+.btn-but{
+    outline: none;
+    border: none;
+    background-color: white;
+    margin-right:30%;
+}
+.btn-but:hover{
+   
+    color: rgb(0,201,239);
+    padding: .5em;
+    border-radius: 15px;
+    font-family: 30px;
+ 
+}

@@ -1,0 +1,36 @@
+.platform-content{
+    color:rgb(0,201,239);
+    font-family: "raleway";
+    font-weight: 900;
+    font-size: larger;
+}
+
+
+.plat-cont p{
+    font-size: larger;
+    text-align:justify;
+    margin-left: 15%;
+       
+}
+.sol-head h2{
+    margin-right: 15%;
+}
+
+.platform-image{
+    height: 400px;
+}
+
+.btn-but{
+    outline: none;
+    border: none;
+    background-color: white;
+    margin-right:30%;
+}
+.btn-but:hover{
+   
+    color: rgb(0,201,239);
+    padding: .5em;
+    border-radius: 15px;
+    font-family: 30px;
+ 
+}

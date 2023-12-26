@@ -1,0 +1,46 @@
+.industry-body{
+    background-color: rgb(255, 254, 254);
+}
+.industry-content{
+    color:rgb(0,201,239);
+    font-family: "raleway";
+    font-weight: 900;
+    font-size: larger;
+}
+.card{
+    width: 250px;
+    margin-left: 20%;
+    height: 280px;
+    align-items: center;
+    padding-bottom: .5em;
+    }
+.card:hover{
+    background-color:rgb(0,201,239) ;
+    color: white;
+}
+.card button{
+    width: 180px;
+    border: none;
+    outline: none;
+    background-color: white;
+    border-radius: 15px;
+    padding-left: .2em;
+
+}
+.card button:hover{
+    background-color: rgb(0,201,239);
+    color: white;
+  
+}
+.card-body p{
+    font-family:'Poppins',Arial,Helvetica,sans-serif;
+    
+}
+.card span{
+    color: yellow;
+    font-size: 15px;
+    margin-left: 2%;
+}
+.icons{
+    font-size: 45px;
+}
